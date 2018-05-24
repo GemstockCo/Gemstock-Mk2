@@ -2,7 +2,20 @@
 
 A delta 3D printer designed by 3 enthousiasts with cost and effectiveness in mind.
 
-### History of the Gemstock
+## Navigating our Github pages:
+For some this is daily matter, running through the fields that is Github. But for others Github is a ruthless jungle that they don't know how to escape. For those we made a little section here to navigate through these pages and some essential links.
+
+#### Navigation:
+At the top of the page you see a big green button saying `Clone or download`, once you click on it you'll be presented with a little options menu with in the bottom a `Download zip` button. you can also click on one of the buttons in the top menu, such as `Issues` or `Wiki`, or on the links underneath this section.
+
+if you find that your printer parts are missing something or think they're outdated (which is entirely possible) you can click on the folder `Printer STLs` in the `Code` page to be taken to the printer parts directory, there you'll find another `readme` to explain how it all works around there, likewise you can click the button underneath this section to be taken there right away. 
+
+#### Links:
+- [The Issues page]()
+- [The Wiki]()
+- [The Printer STLs Readme]()
+ 
+## History of the Gemstock
 
 In a 3D printing lab not so long ago,
 there was a man that who had an internship at that same lab.
