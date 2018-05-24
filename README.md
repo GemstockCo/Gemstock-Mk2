@@ -11,9 +11,9 @@ At the top of the page you see a big green button saying `Clone or download`, on
 if you find that your printer parts are missing something or think they're outdated (which is entirely possible) you can click on the folder `Printer STLs` in the `Code` page to be taken to the printer parts directory, there you'll find another `readme` to explain how it all works around there, likewise you can click the button underneath this section to be taken there right away. 
 
 #### Links:
-- [The Issues page]()
-- [The Wiki]()
-- [The Printer STLs Readme]()
+- [The Issues page](https://github.com/GemstockCo/Gemstock-Mk2/issues)
+- [The Wiki](https://github.com/GemstockCo/Gemstock-Mk2/wiki)
+- [The Printer STLs Readme](https://github.com/GemstockCo/Gemstock-Mk2/blob/master/Printer%20STLs/README.md)
  
 ## History of the Gemstock
 
