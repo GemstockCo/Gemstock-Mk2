@@ -1,0 +1,112 @@
+:root {
+    --white: #F6F6F6;
+    --grey: #E5E5E5;
+    --grey-2: #C3C3C3;
+    --dark-grey-1: #686868;
+    --dark-grey-2: #515151;
+    --black: #2B2B2B;
+    --accent1: #FF8F5B;
+    --accent1-dark: #D1764B;
+}
+
+body {
+    content: border-box;
+    font-family: 'Sunflower', sans-serif;
+    color: var(--black);
+    background-color: var(--white);
+}
+
+.breadcrumb {
+    margin-bottom: 0;
+    background-color: var(--grey);
+}
+
+.dropdown {
+    margin-right: 30px;
+}
+
+img {
+    user-select: none;
+}
+
+a {
+    color: var(--accent1);
+}
+
+a:hover {
+    color: var(--accent1-dark);
+}
+
+.card {
+    margin: 20px;
+    padding: 0;
+}
+
+.btn-card {
+    background-color: var(--accent1);
+    color: var(--white);
+    border: 1px solid var(--accent1-dark);
+}
+
+.btn-white {
+    background-color: #ffffff;
+}
+
+.top-menu {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar {
+    background-color: var(--dark-grey-1);
+}
+
+.bg-accent1 {
+    background-color: var(--dark-grey-2);
+}
+
+.carousel-container {
+    margin: 40px auto 40px auto;
+    padding: 0;
+    max-width: 95%;
+    max-height: 700px;
+    overflow: hidden;
+}
+
+section {
+    padding: 40px;
+}
+
+section:nth-of-type(even) {
+    background-color: var(--grey);
+}
+
+.section-text {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.guidebook-section {
+    text-align: center;
+}
+
+.guidebook-image {
+    max-height: 450px;
+    padding: 0;
+    border: 3px solid var(--black);
+}
+
+.section-image {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    padding: 20px;
+    background-color: var(--accent1);
+}
+
+.grey {
+    background-color: var(--dark-grey-1);
+}
